@@ -15,7 +15,7 @@ Nosso propósito não é segregar, pelo contrário, queremos criar o ambiente pa
 
 E por que homens não podem entrar no nosso clube da luluzinha? Vocês, homens, não iam querer passar horas ouvindo sobre batons e POO ao mesmo tempo.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+Visite nossa página no Facebook [PyLadies Brasil][pyladiesbrF] e sigua-nos no Twitter [@PyLadiesBrazil][pyladiesbrT].
 
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
+[pyladiesbrT]: https://twitter.com/PyLadiesBrazil
+[pyladiesbrF]:    https://www.facebook.com/PyLadiesBrazil?ref_type=bookmark
