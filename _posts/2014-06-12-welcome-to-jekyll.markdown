@@ -17,5 +17,5 @@ E por que homens não podem entrar no nosso clube da luluzinha? Vocês, homens, 
 
 Visite nossa página no Facebook [PyLadies Brasil][pyladiesbrF] e sigua-nos no Twitter [@PyLadiesBrazil][pyladiesbrT].
 
-[pyladiesbrT]: https://twitter.com/PyLadiesBrazil
+[pyladiesbrT]:    https://twitter.com/PyLadiesBrazil
 [pyladiesbrF]:    https://www.facebook.com/PyLadiesBrazil?ref_type=bookmark
