@@ -5,18 +5,15 @@ date:   2014-06-12 01:41:22
 categories: jekyll update
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+O PyLadies é uma comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica. Queremos mudar essa realidade de poucas garotas em uma área tão rica e fantásticas como a computação. E olhe que temos muita história nesse campo viu?!
 
-Jekyll also offers powerful support for code snippets:
+Nós percebemos que não haviam motivos para sermos poucas em salas de cursos universitários e técnicos de informática e tecnologia pelo Brasil, então resolvemos nos organizar para dar um jeitinho nisso. Foi então que encontramos outras ladies pelo mundo, que se reuniam em nome da programação e falavam de abstração de um jeito que só ladies sabem falar.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Nosso desejo é mostrar às meninas que não há limites para sua capacidade intelectual. Se o desejo delas é escrever linhas de código. Pá! Façam isso. Se quiserem desenvolver super sistemas embarcados. Pá! Desenvolvam. Se querem só brincar fazendo algumas linhas de script python. Pá! Brinquem. E se quiserem revolucionar o mundo mesmo sem ter seu código fonte. Pá! Revolucionem. Por que vocês são capazes.
+
+Nosso propósito não é segregar, pelo contrário, queremos criar o ambiente para que mais meninas sejam atraídas pela tecnologia. Nosso desejo é fazer com que elas nos vejam e pensem "Eu quero estar ai também!".
+
+E por que homens não podem entrar no nosso clube da luluzinha? Vocês, homens, não iam querer passar horas ouvindo sobre batons e POO ao mesmo tempo.
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
