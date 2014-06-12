@@ -6,5 +6,5 @@ baseurl: ""
 url: "http://pyladiesbrasil.com"
 
 # Build settings
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
