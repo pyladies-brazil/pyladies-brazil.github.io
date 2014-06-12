@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to PyLadies Brasil!"
 date:   2014-06-12 01:41:22
 categories: jekyll update
 ---
