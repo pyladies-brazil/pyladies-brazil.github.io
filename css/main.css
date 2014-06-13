@@ -396,6 +396,12 @@ a:visited { color: #205caa; }
   .post-content h3 { font-size: 22px; }
   .post-content h4 { font-size: 18px; }
   .post-content blockquote { padding-left: 10px; }
+  .post-content blockquote cite {
+      color: #999999;
+      font-size: 14px;
+      display: block;
+      margin-top: 5px;
+  }
   .post-content ul,
   .post-content ol { padding-left: 10px; }
 
