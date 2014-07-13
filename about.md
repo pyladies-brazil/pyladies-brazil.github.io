@@ -1,15 +1,15 @@
 ---
 layout: about
-title: Quem nós somos
+title: Quem somos
 permalink: /about/
 ---
  
 <img id="img-about" style="height:200px; margin-top:0.8%; margin-left: 5%;" src="../images/img-evento.jpg" align="right"> 
 <p>
-O PyLadies é um grupo internacional trazido ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica. Queremos mudar essa realidade de poucas garotas em uma área tão rica e fantásticas como a computação.
+O PyLadies é um grupo internacional trazido ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica. Queremos mudar essa realidade de poucas garotas em uma área tão rica e fantástica como a computação.
 </p>
 <p>
-Nosso foco é ajudar mais mulheres a tornarem-se participantes ativas e líderes de comunidades Python de código aberto. Nossa missão é promover, educar e impulsionar a existência de uma comunidade Python diversificada através da sensibilização, educação, conferências, eventos e encontros sociais.
+Nosso foco é ajudar mais mulheres a tornarem-se participantes ativas e líderes de comunidades Python. Nossa missão é promover, educar e impulsionar a existência de uma comunidade Python diversificada através da sensibilização, educação, conferências, eventos e encontros sociais.
 </p>
 <p>
 Nosso objetivo não é segregar, pelo contrário, queremos ser um meio de integrar as mulheres a programação, nosso desejo é criar um ambiente para que mais meninas sejam atraídas pela tecnologia.
