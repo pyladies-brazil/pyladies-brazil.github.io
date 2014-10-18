@@ -1,36 +1,48 @@
 ---
-layout: about
-title: Quem somos
-permalink: /about/
+layout: aboutpage
+permalink: /about/index.html
+title: 
+tags: [Hossain, Mohd, Faysal, hmfaysal]
+imagefeature: fourseasons.jpg
+chart: true
 ---
- 
-<img id="img-about" style="height:200px; margin-top:0.8%; margin-left: 5%;" src="../images/img-evento.jpg" align="right"> 
-<p>
-O PyLadies é um grupo internacional trazido ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica. Queremos mudar essa realidade de poucas garotas em uma área tão rica e fantástica como a computação.
-</p>
-<p>
-Nosso foco é ajudar mais mulheres a tornarem-se participantes ativas e líderes de comunidades Python. Nossa missão é promover, educar e impulsionar a existência de uma comunidade Python diversificada através da sensibilização, educação, conferências, eventos e encontros sociais.
-</p>
-<p>
-Nosso objetivo não é segregar, pelo contrário, queremos ser um meio de integrar as mulheres a programação, nosso desejo é criar um ambiente para que mais meninas sejam atraídas pela tecnologia.
-</p>
-<p>
-O PyLadies quer fornecer uma rede de apoio amigável às mulheres e uma ponte para o Mundo Python. Qualquer pessoa com um interesse em Python é encorajada a participar - contanto que seja mulher. 
-</p>
+<figure>
+  <img style="height: 300px; padding: -50px;" src="{{ site.url }}/images/boneca.png" alt="PyLadies"> 
+</figure>
 
-<header class="post-header">
-	<h1 style="text-align: right; padding-bottom: 2%; padding-top: 5%;">
-		Como você pode nos ajudar
-	</h1>
-</header>
+O PyLadies é uma comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica. Queremos mudar essa realidade de poucas garotas em uma área tão rica e fantásticas como a computação. E olhe que temos muita história nesse campo viu?!
 
-<img id="img-about" style="height:300px; margin-top:0.8%; margin-right: 5%;" src="../images/img-evento2.jpg" align="left"> 
-<p>
-Caso não haja um grupo do PyLadies na sua região, pode entrar em contato conosco para começarmos um ai onde você mora. "Mas eu não sei programar", não há problemas, nós te ensinamos. Podemos fazer hangouts, chamadas por skype, ou algo do tipo (dependendo, se for pertinho, podemos até te fazer uma visita a vocês), e treinamos você para que possar montar um grupo ai e ensinar outras meninas. 
-</p>
-<p>
-Se existir grupos do PyLadies onde você mora, é só frequentar as reuniões, aparecer e participar. Nós não colocamos restrições, não proibimos meninas que não sabem programar, pelo contrário, quanto menos você souber, mais vai poder aprender. Compartilhe materiais com as meninas, estude um assunto e se ofereça para palestrar ou falar em um mini-curso, organize eventos ou campeonatos de programação... Sejam abertas a isso, se há uma meninas interessada, ajude à ela a ter prática no assunto, e a coloque para ensinar outras garotas. O importante é gerar frutos que gerem outros frutos. 
-</p>
-<p>
-Então sempre que encontrar uma fonte de estudo interessante, divulgue para que outras também aprendam, se tem dúvida, compartilhe, se descobriu algo, também fale, se está vendo que em um assunto está conseguindo ter uma boa evolução, nos mande um email, mensagem, inbox, nuvem de fumaça, qualquer coisa, dizendo que tem um tópico que você está disposta a ajudar ou ensinar outras garotas. 
-</p> 
+Nós percebemos que não haviam motivos para sermos poucas em salas de cursos universitários e técnicos de informática e tecnologia pelo Brasil, então resolvemos nos organizar para dar um jeitinho nisso. Foi então que encontramos outras ladies pelo mundo, que se reuniam em nome da programação e falavam de abstração de um jeito que só ladies sabem falar.
+
+<figure>
+	<img src="{{ site.url }}/images/about/eventoNatal.jpg" alt="PyLadies">
+	<figcaption>Primeiro encontro do PyLadies Brasil em Natal</figcaption>
+</figure>
+
+<figure class="third">
+	<a href="{{ site.url }}/images/about/eventoRecife01.jpg"><img src="{{ site.url }}/images/about/eventoRecife01.jpg"></a>
+	<a href="{{ site.url }}/images/about/eventoRecife02.jpg"><img src="{{ site.url }}/images/about/eventoRecife02.jpg"></a>
+	<a href="{{ site.url }}/images/about/eventoNatal01.jpg"><img src="{{ site.url }}/images/about/eventoNatal01.jpg"></a>
+</figure>
+<figure class="half">
+	<a href="{{ site.url }}/images/about/eventoNatal02.jpg"><img src="{{ site.url }}/images/about/eventoNatal02.jpg"></a>
+	<a href="{{ site.url }}/images/about/eventoNatal04.jpg"><img src="{{ site.url }}/images/about/eventoNatal05.jpg"></a>
+</figure>
+<!--<figure class="third">
+	<a href="{{ site.url }}/images/about/6.jpg"><img src="{{ site.url }}/images/about/eventoNatal04.jpg"></a>
+	<a href="{{ site.url }}/images/about/7.jpg"><img src="{{ site.url }}/images/about/eventoNatal05.jpg"></a>
+	<a href="{{ site.url }}/images/about/8.jpg"><img src="{{ site.url }}/images/about/8-001.jpg"></a>
+	<figcaption>Doha at its full glory.</figcaption>
+</figure>-->
+<br/>
+
+Nosso desejo é mostrar às meninas que não há limites para sua capacidade intelectual. Se o desejo delas é escrever linhas de código. Pá! Façam isso. Se quiserem desenvolver super sistemas embarcados. Pá! Desenvolvam. Se querem só brincar fazendo algumas linhas de script python. Pá! Brinquem. E se quiserem revolucionar o mundo mesmo sem ter seu código fonte. Pá! Revolucionem. Por que vocês são capazes.
+
+Nosso propósito não é segregar, pelo contrário, queremos criar o ambiente para que mais meninas sejam atraídas pela tecnologia. Nosso desejo é fazer com que elas nos vejam e pensem "Eu quero estar ai também!".
+
+E por que homens não podem entrar no nosso clube da luluzinha? Vocês, homens, não iam querer passar horas ouvindo sobre batons e POO ao mesmo tempo.
+
+
+Participar do Dojo foi muito legal! Uma experiência que quero repetir muitas e muitas vezes. Além de aprender de uma forma bem diferente e rapida também pude fazer amizades e conhecer melhor esse mundo tão grande e divertido do python :)
+**Sara Maria**
+{: .notice}
