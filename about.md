@@ -10,6 +10,7 @@ chart: true
   <img style="height: 300px; padding: -50px;" src="{{ site.url }}/images/boneca.png" alt="PyLadies"> 
 </figure>
 
+<br/>
 O PyLadies é uma comunidade mundial que foi trazida ao Brasil com o propósito de instigar mais mulheres a entrarem na área tecnológica. Queremos mudar essa realidade de poucas garotas em uma área tão rica e fantásticas como a computação. E olhe que temos muita história nesse campo viu?!
 
 Nós percebemos que não haviam motivos para sermos poucas em salas de cursos universitários e técnicos de informática e tecnologia pelo Brasil, então resolvemos nos organizar para dar um jeitinho nisso. Foi então que encontramos outras ladies pelo mundo, que se reuniam em nome da programação e falavam de abstração de um jeito que só ladies sabem falar.
@@ -26,7 +27,7 @@ Nós percebemos que não haviam motivos para sermos poucas em salas de cursos un
 </figure>
 <figure class="half">
 	<a href="{{ site.url }}/images/about/eventoNatal02.jpg"><img src="{{ site.url }}/images/about/eventoNatal02.jpg"></a>
-	<a href="{{ site.url }}/images/about/eventoNatal04.jpg"><img src="{{ site.url }}/images/about/eventoNatal05.jpg"></a>
+	<a href="{{ site.url }}/images/about/eventoNatal05.jpg"><img src="{{ site.url }}/images/about/eventoNatal05.jpg"></a>
 </figure>
 <!--<figure class="third">
 	<a href="{{ site.url }}/images/about/6.jpg"><img src="{{ site.url }}/images/about/eventoNatal04.jpg"></a>
@@ -43,6 +44,6 @@ Nosso propósito não é segregar, pelo contrário, queremos criar o ambiente pa
 E por que homens não podem entrar no nosso clube da luluzinha? Vocês, homens, não iam querer passar horas ouvindo sobre batons e POO ao mesmo tempo.
 
 
-Participar do Dojo foi muito legal! Uma experiência que quero repetir muitas e muitas vezes. Além de aprender de uma forma bem diferente e rapida também pude fazer amizades e conhecer melhor esse mundo tão grande e divertido do python :)
+<i>Participar do Dojo foi muito legal! Uma experiência que quero repetir muitas e muitas vezes. Além de aprender de uma forma bem diferente e rapida também pude fazer amizades e conhecer melhor esse mundo tão grande e divertido do python.</i>
 **Sara Maria**
 {: .notice}
