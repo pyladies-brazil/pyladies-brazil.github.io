@@ -538,7 +538,9 @@ code {
   line-height: 1.2; }
 
 iframe {
-  border: 0; }
+  border: 0;  
+  height: 120px;
+}
 
 .flex-video {
   margin-left: auto;

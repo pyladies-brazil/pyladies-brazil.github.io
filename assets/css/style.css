@@ -476,6 +476,20 @@ figure a img:hover {
 }
 
 @media only screen and (min-width:43.75em) {
+    figure.halfmin img {
+        float: left;
+        width: 30%;
+        margin-right: 0.5%;
+        margin-left: 18%;
+    }
+
+    figure.halfmin figcaption {
+        clear: left;
+    }
+}
+
+
+@media only screen and (min-width:43.75em) {
     figure.half img {
         float: left;
         width: 49%;
