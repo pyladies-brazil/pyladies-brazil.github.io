@@ -1,0 +1,46 @@
+.create {
+
+  .options {
+    margin-bottom: 10px;
+
+   .action {
+     width: 95%;
+   }
+   .action-caret {
+     width: 5%;
+   }
+  }
+
+  .datepicker {
+    button {
+      border: 0;
+    }
+  }
+
+  .alert-cover {
+    label {
+       color: #a94442;
+    }
+    input {
+      display: none;
+    }
+  }
+
+  input {
+    &[name="video"],
+    &[name="cover"] {
+      margin-bottom: 10px;
+
+      img {
+        height: 100%;
+        border-style: solid;
+        border-width: 2px;
+      }
+    }
+  }
+  .thumb-list li > button.btn-delete-thumb{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+}

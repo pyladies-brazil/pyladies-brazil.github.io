@@ -1,0 +1,25 @@
+
+body > header {
+  color: white;
+  text-align: center;
+  background-image: url('../images/background.jpg');
+  background-repeat: repeat-x;
+  padding-bottom: 1px;
+  margin-bottom: 10px;
+
+  a.logo {
+    text-decoration: initial;
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 350px) {
+  body > header {
+    img {
+      width: 30%;
+    }
+  }
+}
